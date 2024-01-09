@@ -7,9 +7,9 @@ For this project I created the foundation of a portfolio I can use personally. C
 
 ## Screenshots
 
-![alt text](/Personal-Portfolio/assets/Screenshot%202024-01-08%20at%2010.44.07%20PM.png)
-![alt text](/Personal-Portfolio/assets/Screenshot%202024-01-08%20at%2010.43.43%20PM.png)
-![alt text](/Personal-Portfolio/assets/Screenshot%202024-01-08%20at%2010.43.18%20PM.png)
+![alt text](/assets/Screenshot%202024-01-08%20at%2010.44.07%20PM.png)
+![alt text](/assets/Screenshot%202024-01-08%20at%2010.43.43%20PM.png)
+![alt text](/assets/Screenshot%202024-01-08%20at%2010.43.18%20PM.png)
 
 ## Credits
 
